@@ -129,3 +129,4 @@ Understanding the exact contribution guidelines (like hiding tags and using spec
 Next time, I will more closely inspect surrounding code (like the abbreviation for AtCoder and the use of `autogen-label-from-site` for solutions) to ensure perfect consistency with the project's internal tooling before the first commit.
 
 ---
+# Contribution 2: Looking for a new issue in the list
